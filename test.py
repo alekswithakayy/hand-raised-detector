@@ -84,4 +84,4 @@ for index,location in enumerate(people):
     # Add the patch to the Axes
     ax.add_patch(rect)
 
-plt.savefig('result.png')
+plt.show()
