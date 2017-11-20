@@ -1,5 +1,5 @@
 # hand-raised-detector
-A system for detecting raised hands in a lecture room.
+A computer vision system for detecting raised hands in a lecture room.
 
 The program locates individuals through face detection using the
 ageitgey/face_recognition library. Based on the location and dimensions of the faces,
